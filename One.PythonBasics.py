@@ -14,7 +14,7 @@ print("Is it AM or PM time now?")
 timeStatus = input()
 if timeStatus == 'AM':
     print("Whats the time in AM now?")
-    #Concerting the format from string to integer and saving to time
+    #Concerting the format from string to integer and saving to time, as input function always makes inputs strings
     time = int(input())
 else:
     print("Whats the time in PM now?")
