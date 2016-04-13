@@ -1,0 +1,7 @@
+1. Explain what you are trying to do, the outcome you are expecting from the program, not what you did .
+2. If you are getting error message, specify the point at which the error happens.
+3. Copy paste the whole code with comments in gist.github.com. Copy and paste entire error message. Pass it along with question.
+
+4. Explain what solution you found already and tried.
+
+5. List the python version, compiler, and OS version too.
